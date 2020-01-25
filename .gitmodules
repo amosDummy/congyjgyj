@@ -1,0 +1,3 @@
+[submodule "random_repo12"]
+	path = random_repo12
+	url = https://github.com/amosDummy/random_repo12
